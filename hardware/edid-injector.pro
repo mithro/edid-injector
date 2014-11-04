@@ -1,4 +1,4 @@
-update=Sun 07 Sep 2014 09:53:48 PM EST
+update=Mon 08 Sep 2014 01:53:06 PM EST
 version=1
 last_client=kicad
 [cvpcb]
@@ -63,3 +63,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=hdmi
 LibName32=silabs-c8051f38x-gq
+LibName33=usb-mini-b
