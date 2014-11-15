@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Mon 08 Sep 2014 02:55:34 PM EST
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Tue 04 Nov 2014 20:22:45 AEDT
 
 BeginCmp
 TimeStamp = /540D9FAF;
@@ -47,13 +47,6 @@ TimeStamp = /540C7E7D;
 Reference = JCEC1;
 ValeurCmp = CONN_01X02;
 IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
-EndCmp
-
-BeginCmp
-TimeStamp = /540C831C;
-Reference = JEDID1;
-ValeurCmp = CONN_01X06;
-IdModule  = Pin_Headers:Pin_Header_Angled_2x03;
 EndCmp
 
 BeginCmp
@@ -131,6 +124,13 @@ TimeStamp = /540C9A03;
 Reference = LUSB1;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /540D3B22;
+Reference = P1;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
 EndCmp
 
 BeginCmp
