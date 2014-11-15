@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Tue 04 Nov 2014 20:22:45 AEDT
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Sat 15 Nov 2014 17:43:52 AEDT
 
 BeginCmp
 TimeStamp = /540D9FAF;
@@ -277,7 +277,7 @@ BeginCmp
 TimeStamp = /540D17D2;
 Reference = S1;
 ValeurCmp = 7SEGM;
-IdModule  = Displays_7-Segment:7SegmentLED_SBC18-11EGWA;
+IdModule  = Sockets_DIP:DIP-10__300;
 EndCmp
 
 BeginCmp
