@@ -1,4 +1,4 @@
-update=Sat 15 Nov 2014 17:46:33 AEDT
+update=Sun 30 Nov 2014 01:36:09 PM AEDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -49,7 +49,7 @@ LibName33=usb-mini-b
 version=1
 PageLayoutDescrFile=
 LastNetListRead=edid-injector.net
-UseCmpFile=0
+UseCmpFile=1
 PadDrill=0.6
 PadDrillOvalY=0.6
 PadSizeH=1.5
