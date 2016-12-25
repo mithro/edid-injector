@@ -1,297 +1,355 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Sat 15 Nov 2014 17:47:10 AEDT
+Cmp-Mod V01 Created by PcbNew   date = Sun 25 Dec 2016 09:24:28 CET
 
 BeginCmp
-TimeStamp = /540D9FAF;
-Reference = CDBG1;
-ValeurCmp = CONN_01X02;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
-EndCmp
-
-BeginCmp
-TimeStamp = /540C3D1D;
+TimeStamp = 5469A64F
+Path = /540C3D1D
 Reference = CSINK1;
 ValeurCmp = HDMI;
 IdModule  = hdmi:hdmi;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C3E12;
+TimeStamp = 546A43A2
+Path = /540C3E12
 Reference = CSRC1;
 ValeurCmp = HDMI;
 IdModule  = hdmi:hdmi;
 EndCmp
 
 BeginCmp
-TimeStamp = /540E505A;
+TimeStamp = 547AE35F
+Path = /540E505A
 Reference = CUSB1;
 ValeurCmp = USB-MINI-B2;
 IdModule  = micro-usb:micro-usb;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C4BBB;
+TimeStamp = 5478857F
+Path = /540C4BBB
 Reference = DHDMI1;
 ValeurCmp = DIODE;
 IdModule  = sod323:sod323;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C4C46;
+TimeStamp = 54786420
+Path = /540C4C46
 Reference = DUSB1;
 ValeurCmp = DIODE;
 IdModule  = sod323:sod323;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C7E7D;
-Reference = JCEC1;
-ValeurCmp = CONN_01X02;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
-EndCmp
-
-BeginCmp
-TimeStamp = /540D5A4C;
+TimeStamp = 540D2F6B
+Path = /540D5A4C
 Reference = L4;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D5B4A;
+TimeStamp = 540D2F71
+Path = /540D5B4A
 Reference = L5;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D5C5C;
+TimeStamp = 540D2F77
+Path = /540D5C5C
 Reference = L6;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D5CD2;
+TimeStamp = 540D2F7D
+Path = /540D5CD2
 Reference = L7;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D81E3;
+TimeStamp = 547AF37E
+Path = /540D81E3
 Reference = L14;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D81E9;
+TimeStamp = 546A6A9E
+Path = /540D81E9
 Reference = L15;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D81EF;
+TimeStamp = 546A6A62
+Path = /540D81EF
 Reference = L16;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D81F5;
+TimeStamp = 546A6A26
+Path = /540D81F5
 Reference = L17;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C999E;
+TimeStamp = 54699F84
+Path = /540C999E
 Reference = LHDMI1;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C7B7A;
+TimeStamp = 540D2FA1
+Path = /540C7B7A
 Reference = LPWR1;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C9A03;
+TimeStamp = 540D2FA7
+Path = /540C9A03
 Reference = LUSB1;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D3B22;
-Reference = P1;
-ValeurCmp = CONN_02X03;
-IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
-EndCmp
-
-BeginCmp
-TimeStamp = /540C98ED;
+TimeStamp = 54699F8E
+Path = /540C98ED
 Reference = RHDMI1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D4B6A;
+TimeStamp = 540D2FB3
+Path = /540D4B6A
 Reference = RL4;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D56DE;
+TimeStamp = 540D2FB9
+Path = /540D56DE
 Reference = RL5;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D572E;
+TimeStamp = 540D2FBF
+Path = /540D572E
 Reference = RL6;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D5784;
+TimeStamp = 540D2FC5
+Path = /540D5784
 Reference = RL7;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D81C7;
+TimeStamp = 546A69EA
+Path = /540D81C7
 Reference = RL14;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D81CD;
+TimeStamp = 546A69E0
+Path = /540D81CD
 Reference = RL15;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D81D3;
+TimeStamp = 546A69D6
+Path = /540D81D3
 Reference = RL16;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D81D9;
+TimeStamp = 546A69CC
+Path = /540D81D9
 Reference = RL17;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C7B25;
+TimeStamp = 540D2FE3
+Path = /540C7B25
 Reference = RPWR1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540DA1F9;
+TimeStamp = 540D2FE9
+Path = /540DA1F9
 Reference = RRST1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D1AF4;
+TimeStamp = 540D2FEF
+Path = /540D1AF4
 Reference = RSEGA1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D1E07;
+TimeStamp = 540D2FF5
+Path = /540D1E07
 Reference = RSEGB1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D1EAF;
+TimeStamp = 540D2FFB
+Path = /540D1EAF
 Reference = RSEGC1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D1F17;
+TimeStamp = 540D3001
+Path = /540D1F17
 Reference = RSEGD1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D1F4D;
+TimeStamp = 54698AC5
+Path = /540D1F4D
 Reference = RSEGE1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D1F80;
+TimeStamp = 540D300D
+Path = /540D1F80
 Reference = RSEGF1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D1FB0;
+TimeStamp = 540D3013
+Path = /540D1FB0
 Reference = RSEGG1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D1FDD;
+TimeStamp = 540D3019
+Path = /540D1FDD
 Reference = RSEGP1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540C9968;
+TimeStamp = 540D301F
+Path = /540C9968
 Reference = RUSB1;
 ValeurCmp = R;
 IdModule  = Resistors_SMD:R_0402;
 EndCmp
 
 BeginCmp
-TimeStamp = /540D17D2;
-Reference = S1;
-ValeurCmp = 7SEGM;
-IdModule  = Sockets_DIP:DIP-10__300;
-EndCmp
-
-BeginCmp
-TimeStamp = /540DA65A;
+TimeStamp = 54679E94
+Path = /540DA65A
 Reference = SW1;
 ValeurCmp = SW_PUSH;
 IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
 EndCmp
 
 BeginCmp
-TimeStamp = /540CA3E0;
+TimeStamp = 547AC226
+Path = /540CA3E0
 Reference = U1;
 ValeurCmp = C8051F381/3/5/7/C-GQ;
 IdModule  = QFP:lqfp32;
+EndCmp
+
+BeginCmp
+TimeStamp = 54670143
+Path = /540D17D2
+Reference = S1;
+ValeurCmp = 7SEGM;
+IdModule  = Sockets_DIP:DIP-10__300;
+EndCmp
+
+BeginCmp
+TimeStamp = 585F81DB
+Path = /585FBFCF
+Reference = RPWR2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = 585F8248
+Path = /585FC0FB
+Reference = LPWR2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 585F82A4
+Path = /585FD175
+Reference = CDBG1;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = 585F82AB
+Path = /585FB1BA
+Reference = JCEC1;
+ValeurCmp = CONN_01X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 585F82B3
+Path = /585F9832
+Reference = JEDID1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
 EndCmp
 
 EndListe
