@@ -1034,7 +1034,7 @@ Wire Wire Line
 Wire Wire Line
 	5125 3375 4750 3375
 Wire Wire Line
-	4750 3200 4750 4125
+	4750 3100 4750 4125
 Wire Wire Line
 	4750 4125 5125 4125
 Wire Wire Line
@@ -1052,7 +1052,7 @@ Connection ~ 5850 5350
 Wire Wire Line
 	4825 4050 5025 4050
 Wire Wire Line
-	4825 3100 4825 4050
+	4825 3200 4825 4050
 Connection ~ 5025 4050
 Wire Wire Line
 	4825 3450 5025 3450
@@ -1071,11 +1071,7 @@ F 3 "" H 4450 3000 50  0000 C CNN
 	1    4450 3000
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	4750 3200 4650 3200
 Connection ~ 4750 3375
-Wire Wire Line
-	4825 3100 4650 3100
 Connection ~ 4825 3450
 NoConn ~ 4650 2800
 $Comp
@@ -1165,4 +1161,8 @@ Wire Wire Line
 	7050 5700 6700 5700
 Wire Wire Line
 	6700 5700 6700 5900
+Wire Wire Line
+	4750 3100 4650 3100
+Wire Wire Line
+	4825 3200 4650 3200
 $EndSCHEMATC
