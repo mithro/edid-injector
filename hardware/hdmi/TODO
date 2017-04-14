@@ -1,0 +1,19 @@
+
+# Schematic
+
+ - [ ] Replace the SiLabs C8051 with an ARM microprocessor. Needs;
+   * 5V tolerant IO
+   * USB
+   * 2 x I2C controllers
+
+ - [ ] Fix wiring of the headers to be PMOD compatible
+
+# PCB
+
+ - [ ] Redo the PCB layout after schematic changes
+
+# Firmware
+
+ - [ ] Write the firmware
+
+
