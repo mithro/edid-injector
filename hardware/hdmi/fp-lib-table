@@ -2,4 +2,5 @@
   (lib (name hdmi)(type KiCad)(uri $KIPRJMOD/hdmi.pretty)(options "")(descr ""))
   (lib (name micro-usb)(type KiCad)(uri $KIPRJMOD/micro-usb.pretty)(options "")(descr ""))
   (lib (name sod323)(type KiCad)(uri $KIPRJMOD/sod323.pretty)(options "")(descr ""))
+  (lib (name random)(type KiCad)(uri $KIPRJMOD/random.pretty)(options "")(descr ""))
 )
